@@ -57,7 +57,7 @@ public class PostalCodesMain {
             }
             Collections.sort(codes);
             for (String code : codes) {
-                System.out.println(code);
+                System.out.print(code + " ");
             }
 
         }
