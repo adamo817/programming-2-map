@@ -2,7 +2,8 @@ package part03;
 
 import java.util.Map;
 import java.util.Scanner;
-import java.util.Collection;
+import java.util.Collections;
+import java.util.ArrayList;
 
 /**
  * This part of the exercise is tested manually through the user interface, not
